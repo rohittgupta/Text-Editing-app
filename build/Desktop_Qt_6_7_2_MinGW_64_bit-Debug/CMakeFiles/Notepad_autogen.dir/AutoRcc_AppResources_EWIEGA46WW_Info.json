@@ -1,0 +1,37 @@
+{
+	"BUILD_DIR" : "C:/Users/91768/Documents/Notepad/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Notepad_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/91768/Documents/Notepad/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/91768/Documents/Notepad/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/91768/Documents/Notepad",
+	"CMAKE_SOURCE_DIR" : "C:/Users/91768/Documents/Notepad",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "C:/Users/91768/Documents/Notepad/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Notepad_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/91768/Documents/Notepad/redo.png",
+		"C:/Users/91768/Documents/Notepad/new.png",
+		"C:/Users/91768/Documents/Notepad/subscript.png",
+		"C:/Users/91768/Documents/Notepad/save.png",
+		"C:/Users/91768/Documents/Notepad/open.png",
+		"C:/Users/91768/Documents/Notepad/superscript.png",
+		"C:/Users/91768/Documents/Notepad/bold.png",
+		"C:/Users/91768/Documents/Notepad/about.png",
+		"C:/Users/91768/Documents/Notepad/saveas.png",
+		"C:/Users/91768/Documents/Notepad/undo.png",
+		"C:/Users/91768/Documents/Notepad/copy.png",
+		"C:/Users/91768/Documents/Notepad/paste.png",
+		"C:/Users/91768/Documents/Notepad/cut.png"
+	],
+	"LOCK_FILE" : "C:/Users/91768/Documents/Notepad/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/Notepad_autogen.dir/AutoRcc_AppResources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "AppResources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_AppResources.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.7.2/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/91768/Documents/Notepad/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/Notepad_autogen.dir/AutoRcc_AppResources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/91768/Documents/Notepad/AppResources.qrc",
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}
